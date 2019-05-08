@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnCaughtExceptionTest.iml" filepath="$PROJECT_DIR$/UnCaughtExceptionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiThread.iml" filepath="$PROJECT_DIR$/multiThread.iml" />
     </modules>
   </component>
 </project>
